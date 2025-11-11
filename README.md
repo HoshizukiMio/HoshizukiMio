@@ -6,7 +6,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
   Konnichiwa! 我是 星月澪 (Hoshizuki Mio) 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magic%20Wand.png" alt="Magic Wand" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Magic%20Wand.png" alt="Magic Wand" width="35" height="35" />
 </h1>
 
 <p align="center">
@@ -109,7 +109,7 @@
 
 <div align="center">
   <!-- Random Anime Quote -->
-  <img src="https://animechan.vercel.app/api/random" alt="Random Anime Quote" />
+  <img src="https://v1.hitokoto.cn?c=a&c=b&c=c&encode=text" alt="Hitokoto" />
   
   <!-- GitHub Contribution Snake -->
   <picture>
