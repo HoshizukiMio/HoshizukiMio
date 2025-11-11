@@ -1,18 +1,6 @@
-<!-- 
-Hi there, HoshizukiMio! 
-This is your new awesome GitHub profile README.
-Just copy-paste it into the README.md file of your special repository named "HoshizukiMio".
-Don't forget to replace placeholders like image URLs or social media links with your own!
--->
-
 <!-- 1. Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HoshizukiMio/HoshizukiMio/main/assets/banner.gif" alt="HoshizukiMio's Banner" width="800"/>
-</p>
-<!-- 👆 你可以替换上面 src 中的图片链接为你自己的 Banner。推荐尺寸 800x200 或类似比例。-->
-<!-- 静态图推荐: https://www.pixiv.net/ 找一些风景图 -->
-<!-- 动图推荐: 制作一些代码、下雨、星空等循环动图 -->
-
+  <img src="https://raw.githubusercontent.com/HoshizukiMio/HoshizukiMio/main/assets/banner.png" alt="HoshizukiMio's Banner" width="800"/>
 
 <!-- 2. Introduction -->
 <h1 align="center">
@@ -68,7 +56,6 @@ Don't forget to replace placeholders like image URLs or social media links with 
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea,postman" />
   </a>
 </p>
-<!-- 👆 在 i=... 后面增删你需要的技能图标，名字可以在 https://skillicons.dev 查找 -->
 
 ---
 
@@ -110,7 +97,6 @@ Don't forget to replace placeholders like image URLs or social media links with 
     </td>
   </tr>
 </table>
-<!-- 👆 以上内容请根据你的喜好自由修改 -->
 
 ---
 
